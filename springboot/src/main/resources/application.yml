@@ -1,0 +1,9 @@
+server:
+  port: 8000
+name: 我爱学习
+age: 18
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
